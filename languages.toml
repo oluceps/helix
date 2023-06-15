@@ -1666,6 +1666,10 @@ indent = { tab-width = 2, unit = "  " }
 name = "nu"
 source = { git = "https://github.com/LhKipp/tree-sitter-nu", rev = "eb95bdac3abd73ef47e53f19c63e74a31405ebd2" }
 
+[[grammar]]
+name = "typst"
+source = { git = "https://github.com/SeniorMars/tree-sitter-typst", rev = "2e66ef4b798a26f0b82144143711f3f7a9e8ea35" }
+
 [[language]]
 name = "vala"
 scope = "source.vala"
